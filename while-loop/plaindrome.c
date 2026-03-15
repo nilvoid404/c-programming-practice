@@ -18,7 +18,7 @@ if(temp==rev){
     printf("It is a palindrome");
 }
 else{
-    printf("It is a palindrome");
+    printf("It is not a palindrome");
 }
 
     return 0;
