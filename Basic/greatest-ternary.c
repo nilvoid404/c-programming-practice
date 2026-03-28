@@ -12,6 +12,3 @@ int main(){
 
     return 0;
 }
-git add .
-git commit -m "Smallest Number - Ternary"
-git push origin main
